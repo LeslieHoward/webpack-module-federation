@@ -1,6 +1,7 @@
 {
   "name": "module-federation-starter",
   "version": "1.0.0",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "7.10.3",
     "@babel/preset-react": "7.10.1",

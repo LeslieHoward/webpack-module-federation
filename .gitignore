@@ -107,3 +107,6 @@ buildServer
 # TernJS port file
 .tern-port
 /streamed-federation/.s3rver/
+yarn.lock
+apps/**/yarn.lock
+apps/**/node_modules

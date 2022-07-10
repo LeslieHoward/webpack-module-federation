@@ -1,7 +1,7 @@
 {
   "name": "@bit-module-federation/app2",
   "version": "0.0.0",
-  "private": true,
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "7.10.3",
     "@babel/preset-react": "7.10.1",

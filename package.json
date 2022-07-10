@@ -1,0 +1,18 @@
+{
+  "name": "webpack-module-federation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LeslieHoward/webpack-module-federation.git",
+  "author": "leslie",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "install": "lerna bootstrap"
+  },
+  "devDependencies": {
+    "lerna": "^5.1.8"
+  },
+  "workspaces": [
+    "apps/*"
+  ]
+}
